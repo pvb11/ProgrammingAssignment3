@@ -1,4 +1,4 @@
-Data Sources:
+ Data Sources:
 "train/subject_train.txt" contains subject information for each data entry in the training set.
 "train/y_train.txt" contains activity information for each data entry in the training set.
 "train/X_train.txt" contains measurements for each data entry in the training set.
